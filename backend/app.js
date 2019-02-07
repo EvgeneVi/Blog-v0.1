@@ -8,3 +8,4 @@ app.listen(8080,()=>{
     console.log("connection completed successfully")
 })
 var s = 1
+let g = 2
